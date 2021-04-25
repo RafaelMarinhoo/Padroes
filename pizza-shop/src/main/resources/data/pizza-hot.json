@@ -1,0 +1,22 @@
+[
+  {
+    "price": 55.0,
+    "topping": "pepperoni"
+  },
+  {
+    "price": 40.0,
+    "topping": "mozzarella cheese"
+  },
+  {
+    "price": 45.0,
+    "topping": "four cheese"
+  },
+  {
+    "price": 48.0,
+    "topping": "bacon"
+  },
+  {
+    "price": 42.0,
+    "topping": "chicken"
+  }
+]

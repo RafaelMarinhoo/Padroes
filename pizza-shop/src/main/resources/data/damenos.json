@@ -1,0 +1,22 @@
+[
+  {
+    "cost": 40.0,
+    "name": "beef"
+  },
+  {
+    "cost": 38.0,
+    "name": "sausage"
+  },
+  {
+    "cost": 44.0,
+    "name": "italian sausage"
+  },
+  {
+    "cost": 40.0,
+    "name": "ham"
+  },
+  {
+    "cost": 35,
+    "name": "vegan"
+  }
+]
